@@ -1,0 +1,2 @@
+# kaggle-Humpback-Whale-Identification
+I have prepared this kernel to learn and build a frame work to apply one-shot learning and siamese network in future projects. If some one wants to build a siamese network this would be a good frame work to start with. I didn't have enough time to train this model to evaluate the performances. But when I go though the winning solutions I feel that this frame work is inline with most of them. With a little tricks this would have been trained to have good accuracy.
